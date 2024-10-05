@@ -1,6 +1,6 @@
 # DrakeU
 
-Content related Education K-12 Pedagogy, Curriculum — Planning, Design, and Analysis —, and Assessments for _General Education_, _Gifted_, and _Special Education_. 
+Content related Education K-12 Pedagogy, Curriculum — Planning, Design, and Analysis —, and Assessments for _General_, _Gifted_, and _Special Intervention_. 
 
 ## Courses
 
